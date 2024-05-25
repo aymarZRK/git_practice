@@ -13,6 +13,11 @@ Pork
 Rabbit
 
 DAIRY
+Milk
+Eggs
+Yogurt
+Butter
+Cheese
 
 
 HOUSEHOLD
